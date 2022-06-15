@@ -5,4 +5,4 @@
 ### projeto de engorda bovinos com dieta alto concentrado
 
 #### Links Uteis:
-[syntax basic markdown](https://www.markdownguide.org/basic-syntax)
+[Sintaxe Básica Markdown](https://www.markdownguide.org/basic-syntax)
